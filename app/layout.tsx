@@ -11,7 +11,6 @@ import "./globals.css";
 
 import { Toaster } from "react-hot-toast";
 import Header from "@/components/Header";
-import Sidebar from "@/components/Sidebar";
 import { getAvailableRewards, getUserByEmail } from "@/utils/db/actions";
 import { usePathname } from "next/navigation";
 
