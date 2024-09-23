@@ -1,3 +1,48 @@
+1.npx create-next-app@latest
+2.npx shadcn@latest init
+
+3.npm i drizzle-orm postgres
+4.npm i -D drizzle-kit (I have used drizzle orm from yagamilight)
+5.I have used neon postgres database from mohammadehshan7290970786 id
+6.npm i@neondatabase/serverless
+npm run db:push (to push schema)
+npm run db:studio (to see the studio)
+
+
+7.npm i dotenv
+8.npm i react-hot-toast
+9.npx shadcn@latest add button
+
+10.web3auth setup using yagamiiliight id
+11.npm i @web3auth/base @web3auth/ethereum-provider
+
+12.npm i lucide-react
+13.npx shadcn@latest add dropdown-menu
+14.npx shadcn@latest add badge
+15.npm i @web3auth/modal
+
+16.full heaer component deleted and wrote again all the function so it may contains some error
+17.used next_public in env
+18.Header:we are using  @ts-nocheck to ignore typescript error as web3 component will give typescript error as they don't have typescript type available
+
+19.npm i @google/generative-ai (mohammad ehshan729097 id)
+20.npm i @react-google-maps/api (It was asking for api key so i have not created it but i will use tomtom or leaflet in future)
+
+21.npx shadcn@latest add input
+
+22.npm i font-awesome
+23.npm i react-icons
+24.npm i swiper(crasoual is working without swiperjs)
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
