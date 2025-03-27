@@ -33,7 +33,9 @@ npm run db:studio (to see the studio)
 22.npm i font-awesome
 23.npm i react-icons
 24.npm i swiper(crasoual is working without swiperjs)
-
+25. npm i chartjs(installed this by mistake)
+26.npm install react-chartjs-2 chart.js
+27.npm install @clerk/nextjs
 
 
 

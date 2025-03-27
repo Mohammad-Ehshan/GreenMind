@@ -677,7 +677,9 @@ export default function ReportPage() {
 
       const result = await model.generateContent([prompt, ...imageParts]);
       const response = await result.response;
-      const text = response.text();
+      const rawText = response.text();
+      const text = rawText.replace(/```json|```/g, "").trim();
+      console.log(text)
 
       try {
         const parsedResult = JSON.parse(text);
