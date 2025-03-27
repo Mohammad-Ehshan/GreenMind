@@ -25,12 +25,6 @@ GreenMindAI was celebrated as a **finalist** at:
 - [Clash of Code 2.0 at Microsoft Office]
 - [T-Hacks at ADGIPS]  
 
-## 🛠️ Tech Stack  
-**AI/ML**: TensorFlow (waste classification), GeoAI (location analysis)  
-**Mobile**: Flutter (cross-platform)  
-**Backend**: Firebase (Realtime DB), Node.js (APIs)  
-**Auth**: Firebase Authentication  
-**DevOps**: Docker, AWS EC2  
 
 Why This Works?
 
